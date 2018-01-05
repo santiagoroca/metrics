@@ -1,0 +1,19 @@
+{
+  "name": "if-restws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "RestServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anychart-nodejs": "^1.3.5",
+    "express": "^4.16.2",
+    "node-highcharts-exporter": "0.0.6",
+    "node-highcharts-exporting": "0.0.9",
+    "node-rest-client": "^3.1.0",
+    "ws": "^4.0.0"
+  }
+}

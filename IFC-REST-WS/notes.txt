@@ -1,0 +1,14 @@
+const INTERVAL = 100;
+const CLIENTS = 10;
+
+//CPU 9%
+
+const INTERVAL = 100;
+const CLIENTS = 100;
+
+//CPU 30%
+
+const INTERVAL = 100;
+const CLIENTS = 500;
+
+//CPU 35%
